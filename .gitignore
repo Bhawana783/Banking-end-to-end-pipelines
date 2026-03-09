@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# Project specific
+data/
+logs/
+*.parquet
+*.json
+docker-compose.override.yml
